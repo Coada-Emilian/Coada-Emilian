@@ -38,7 +38,7 @@
 ## Projects
 
 - **[Senior Love]**: SeniorLove is a dedicated dating app for seniors, focusing on organizing local events based on shared interests. (https://github.com/Coada-Emilian/SeniorLove)]
-- **[Kine Soin]**: Kine Soin is an innovative app designed specifically for physical therapists to streamline appointment management and enhance patient care. [link to follow]
+- **[Kine Soin]**: Kine Soin is an innovative app designed specifically for physical therapists to streamline appointment management and enhance patient care. (https://github.com/Coada-Emilian/kineSoin)
 
 ## GitHub Stats
 
