@@ -2,51 +2,69 @@
 
 ## About Me
 
-- 🌱 I’m currently learning and expanding my knowledge in software development.
-- 💼 Working on various interesting projects and contributing to open-source.
-- 👯 I’m looking to collaborate on exciting projects in the field of **technological innovation, web accessibility, and environmental sustainability**.
-- 📫 How to reach me: **emilian.coada@gmail.com**
+🌱 I’m currently learning and expanding my knowledge in software development  
+💼 Working on personal and practical full-stack projects  
+👯 I’m looking to collaborate on projects around web development, accessibility, and meaningful digital products  
+📫 Contact: **emilian.coada@gmail.com**
 
-## Skills
+---
 
-### **Programming Languages**:
-- JavaScript  
-- HTML5  
-- CSS3  
+## 🛠️ Tech Stack
 
-### **Frameworks and Libraries**:
-- React.js  
-- Node.js  
-- Express.js  
-- Bootstrap  
+### Languages
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-### **Databases**:
-- PostgreSQL  
-- MongoDB  
-- Mongoose  
+### Frontend
+- React.js
+- Bootstrap
 
-### **Tools**:
-- Git & GitHub  
-- Docker  
-- VS Code  
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Security
 
-### **APIs & Backend**:
-- REST API  
-- Authentication & Security  
-- Geolocation  
+### Databases
+- PostgreSQL
+- MongoDB
+- Mongoose
 
-## Projects
+### Tools
+- Git & GitHub
+- Docker
+- VS Code
 
-- **[Senior Love]**: SeniorLove is a dedicated dating app for seniors, focusing on organizing local events based on shared interests. (https://github.com/Coada-Emilian/SeniorLove)]
-- **[Kine Soin]**: Kine Soin is an innovative app designed specifically for physical therapists to streamline appointment management and enhance patient care. (https://github.com/Coada-Emilian/kineSoin)
+---
 
-## GitHub Stats
+## 🚀 Projects
 
-![Coada-Emilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coada-Emilian&show_icons=true&theme=radical)
+### 🧓 Senior Love
+A dating and event platform designed for seniors, focused on connecting people through local events and shared interests.
 
-## Connect with Me
+🔗 https://github.com/Coada-Emilian/SeniorLove
 
-- [LinkedIn](https://linkedin.com/in/emilian-coada)
-- [Personal Website](link to follow)
+---
 
-Thank you for visiting my profile! 😊
+### 🧑‍⚕️ Kine Soin
+A full-stack application designed for physiotherapists to manage patients and appointments, improving clinic workflow and organization.
+
+🔗 https://github.com/Coada-Emilian/kineSoin
+
+---
+
+## 📊 GitHub Stats
+
+![Emilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coada-Emilian&show_icons=true&theme=default)
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn(https://linkedin.com/in/emilian-coada)
+- Portfolio: link to follow)
+
+---
+
+⭐ Thank you for visiting my profile!
