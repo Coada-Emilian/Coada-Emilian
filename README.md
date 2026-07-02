@@ -1,15 +1,15 @@
 # Hi there, I'm Emilian! 👋
 
-## About Me
+## 💡 About Me
 
 🌱 I’m currently learning and expanding my knowledge in software development  
-💼 Working on personal and practical full-stack projects  
-👯 I’m looking to collaborate on projects around web development, accessibility, and meaningful digital products  
+💼 Building full-stack projects to strengthen real-world development skills  
+👯 I’m looking to collaborate on web applications, accessibility-focused projects, and meaningful digital products  
 📫 Contact: **emilian.coada@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 ### Languages
 - JavaScript (ES6+)
@@ -38,32 +38,39 @@
 
 ---
 
+## 📊 GitHub Activity
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Coada-Emilian)](https://git.io/streak-stats)
+
+### 📈 Contribution Graph
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coada-Emilian&theme=github-compact)
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coada-Emilian&layout=compact)
+
+---
+
 ## 🚀 Projects
 
 ### 🧓 Senior Love
-A dating and event platform designed for seniors, focused on connecting people through local events and shared interests.
+A platform designed for seniors to connect through shared interests and local events.
 
 🔗 https://github.com/Coada-Emilian/SeniorLove
 
 ---
 
 ### 🧑‍⚕️ Kine Soin
-A full-stack application designed for physiotherapists to manage patients and appointments, improving clinic workflow and organization.
+A full-stack application for physiotherapists to manage patients and appointments efficiently.
 
 🔗 https://github.com/Coada-Emilian/kineSoin
 
 ---
 
-## 📊 GitHub Stats
-
-![Emilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coada-Emilian&show_icons=true&theme=default)
-
----
-
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 - LinkedIn(https://linkedin.com/in/emilian-coada)
-- Portfolio: link to follow)
+- Portfolio: (link to follow)
 
 ---
 
