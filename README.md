@@ -46,9 +46,6 @@
 ### 📈 Contribution Graph
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coada-Emilian&theme=github-compact)
 
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coada-Emilian&layout=compact)
-
 ---
 
 ## 🚀 Projects
