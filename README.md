@@ -66,16 +66,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Coada-Emilian)](https://git.io/streak-stats)
-
-### 📈 Contribution Graph
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coada-Emilian&theme=github-compact)
-
----
-
 ## ✅ Completed Projects
 
 ### 🧓 Senior Love
@@ -118,6 +108,17 @@ Rebuilding the existing game library with a Java/Spring Boot backend and a React
 ### 📅 DotByDot — Java & Spring Boot
 Planning to extend the existing Vue.js habit tracker with a Java/Spring Boot backend and PostgreSQL database.
 
+---
+
+## 📊 GitHub Activity
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Coada-Emilian)](https://git.io/streak-stats)
+
+### 📈 Contribution Graph
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coada-Emilian&theme=github-compact)
+
+---
 
 ## 🌐 Connect With Me
 
