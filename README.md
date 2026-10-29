@@ -1,40 +1,68 @@
 # Hi there, I'm Emilian! 👋
 
+### Full-Stack Developer | Java & Spring Boot | React & JavaScript
+
 ## 💡 About Me
 
-🌱 I’m currently learning and expanding my knowledge in software development  
-💼 Building full-stack projects to strengthen real-world development skills  
-👯 I’m looking to collaborate on web applications, accessibility-focused projects, and meaningful digital products  
+🌱 Currently developing my skills in Java and Spring Boot  
+💻 Experienced with JavaScript, React, and Node.js  
+🚀 Building full-stack projects to strengthen my backend and frontend development skills  
+👯 Interested in collaborating on web applications and meaningful digital products  
 📫 Contact: **emilian.coada@gmail.com**
 
 ---
 
 ## ⚡ Tech Stack
 
-### Languages
+### 💪 Acquired Knowledge
+
+**Languages**
 - JavaScript (ES6+)
-- HTML5
-- CSS3
+- TypeScript
+- HTML5 & CSS3
 
-### Frontend
-- React.js
+**Frontend**
+- React
+- Vue.js
+- Vite
+- Tailwind CSS
 - Bootstrap
+- Responsive Design
 
-### Backend
+**Backend**
 - Node.js
 - Express.js
 - REST APIs
-- Authentication & Security
 
-### Databases
+**Databases & Data Access**
 - PostgreSQL
 - MongoDB
+- Sequelize
 - Mongoose
 
-### Tools
+**Development Practices**
 - Git & GitHub
+- MVC Architecture
+- Authentication & Web Security
+
+### 🌱 Currently Developing
+
+**Java Backend Development**
+- Java
+- Spring Boot
+- Spring Data JPA
+- Maven
+- JUnit & Mockito
+- AOP (Aspect-Oriented Programming)
+
+### 🛠️ Tools & Technologies
+
+- IntelliJ IDEA
+- Visual Studio Code
 - Docker
-- VS Code
+- Nginx
+- Keycloak
+- Postman
 
 ---
 
@@ -48,7 +76,7 @@
 
 ---
 
-## 🚀 Projects
+## ✅ Completed Projects
 
 ### 🧓 Senior Love
 A platform designed for seniors to connect through shared interests and local events.
@@ -57,18 +85,47 @@ A platform designed for seniors to connect through shared interests and local ev
 
 ---
 
+### 🎮 Backlogged (Vue.js)
+A video game library application to discover games through the RAWG API and organise a personal collection by status.
+
+🔗 https://github.com/Coada-Emilian/vue-game-library
+
+---
+
+## 🚧 Currently in Development
+
 ### 🧑‍⚕️ Kine Soin
-A full-stack application for physiotherapists to manage patients and appointments efficiently.
+A full-stack application for physiotherapists to manage patients, appointments, and billing.
 
 🔗 https://github.com/Coada-Emilian/kineSoin
 
 ---
 
-## 🌐 Connect With Me
+### 💰 WhereDidItGo
+A personal finance management application for tracking income, expenses, accounts, categories, and financial balances.
 
-- LinkedIn(https://linkedin.com/in/emilian-coada)
-- Portfolio: (link to follow)
+🔗 https://github.com/Coada-Emilian/WhereDidItGo
 
 ---
 
-⭐ Thank you for visiting my profile!
+### 🎮 Backlogged — Java & Spring Boot
+Rebuilding the existing game library with a Java/Spring Boot backend and a React frontend.
+
+---
+
+## 🔮 Upcoming Projects
+
+### 📅 DotByDot — Java & Spring Boot
+Planning to extend the existing Vue.js habit tracker with a Java/Spring Boot backend and PostgreSQL database.
+
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/Coada-Emilian)
+- 💻 [GitHub](https://github.com/Coada-Emilian)
+- 📫 Email: **emilian.coada@gmail.com**
+- 🌍 Portfolio: Coming soon
+
+---
+
+⭐ Thanks for visiting my profile!
